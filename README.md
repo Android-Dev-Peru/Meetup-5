@@ -19,8 +19,6 @@ Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
 
   Puedes descargar el código del taller aquí
   
-  [https://github.com/lllAlonsolll/Android-ReactiveX-BasicExample](https://github.com/lllAlonsolll/Android-ReactiveX-BasicExample)
-  
   [https://github.com/Android-Dev-Peru/Android-Retrofit2.0](https://github.com/Android-Dev-Peru/Android-Retrofit2.0)
 
 - ReactiveX
@@ -29,7 +27,9 @@ Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
  Para los servicios REST usaremos el API de [CodeForces](http://codeforces.com/api/help) y la trama JSON
  [Link](http://codeforces.com/api/problemset.problems?tags=graphs)
 
- Puedes descargar el código del taller aquí [https://github.com/Android-Dev-Peru/Android-ReactiveX-Example](https://github.com/Android-Dev-Peru/Android-ReactiveX-Example)
+ Puedes descargar el código del taller aquí
+  [https://github.com/lllAlonsolll/Android-ReactiveX-BasicExample](https://github.com/lllAlonsolll/Android-ReactiveX-BasicExample)
+ [https://github.com/Android-Dev-Peru/Android-ReactiveX-Example](https://github.com/Android-Dev-Peru/Android-ReactiveX-Example)
   
 ### Tools :
 
