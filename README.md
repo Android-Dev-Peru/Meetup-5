@@ -4,8 +4,8 @@ Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
 Requisitos :
 
 - Descargar los proyectos de Retrofit y RXJava de Github
-  * Retrofit 2.0 [Link](https://github.com/Android-Dev-Peru/Android-Retrofit2.0)
-  * ReactiveX [Link](https://github.com/Android-Dev-Peru/Android-ReactiveX-Example)
+  * Retrofit 2.0 [https://github.com/Android-Dev-Peru/Android-Retrofit2.0](https://github.com/Android-Dev-Peru/Android-Retrofit2.0)
+  * ReactiveX [https://github.com/Android-Dev-Peru/Android-ReactiveX-Example](https://github.com/Android-Dev-Peru/Android-ReactiveX-Example)
 - Android Studio 2.1.2
 - OS Linux, OSX, Windows
 - Java 8 
