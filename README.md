@@ -15,18 +15,16 @@ Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
 
 - Retrofit 2.0
 
-  Retrofit es una Librería Http para consumir servicios REST, puedes revisar la documentación oficial [aquí](http://square.github.io/retrofit/) y seguir este tutorial [futurestud.io](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
+  Retrofit es una Librería Http para consumir servicios REST, puedes revisar la documentación oficial [aquí](http://square.github.io/retrofit/) y seguir este tutorial [futurestud.io](https://futurestud.io/blog/retrofit-getting-started-and-android-client) . Para los servicios  web usaremos [backendless](https://backendless.com/), el API [REST](https://backendless.com/documentation/users/rest/users_overview.htm) y la trama JSON  [Link](https://github.com/Android-Dev-Peru/Meetup-5/blob/master/retrofit.json)
 
-  Para los servicios  usaremos [backendless](https://backendless.com/), el API [REST](https://backendless.com/documentation/users/rest/users_overview.htm) y la trama JSON  [Link](https://github.com/Android-Dev-Peru/Meetup-5/blob/master/retrofit.json)
-
-  El ejemplo que usaremos para este taller es el siguiente [Link](https://github.com/Android-Dev-Peru/Android-Retrofit2.0)
+  Puedes descargar el código del taller aquí [https://github.com/Android-Dev-Peru/Android-Retrofit2.0](https://github.com/Android-Dev-Peru/Android-Retrofit2.0)
 
 - ReactiveX
 
  Para los servicios REST usaremos el API de [CodeForces](http://codeforces.com/api/help) y la trama JSON
  [Link](http://codeforces.com/api/problemset.problems?tags=graphs)
 
- El ejemplo que usaremos para este taller es el siguiente [Link](https://github.com/Android-Dev-Peru/Android-ReactiveX-Example)
+ Puedes descargar el código del taller aquí [https://github.com/Android-Dev-Peru/Android-ReactiveX-Example](https://github.com/Android-Dev-Peru/Android-ReactiveX-Example)
   
 ### Tools :
 
