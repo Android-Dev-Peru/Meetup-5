@@ -1,7 +1,7 @@
 # Meetup-5
 Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
 
-Requisitos :
+## Requisitos :
 
 - Descargar los proyectos de Retrofit y RXJava de Github
   * Retrofit 2.0 [https://github.com/Android-Dev-Peru/Android-Retrofit2.0](https://github.com/Android-Dev-Peru/Android-Retrofit2.0)
@@ -11,8 +11,7 @@ Requisitos :
 - Java 8 
 - Postman , esta es una herramienta para probar servicios Web (REST)  [Link](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
 
-
-Referencias :
+## Referencias :
  - JSON Tools 
     * JSONEditor [http://www.jsoneditoronline.org](http://www.jsoneditoronline.org)
     * JsonLint [http://jsonlint.com/](http://jsonlint.com/)
