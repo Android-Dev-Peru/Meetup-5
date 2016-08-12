@@ -28,7 +28,9 @@ Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
  [Link](http://codeforces.com/api/problemset.problems?tags=graphs)
 
  Puedes descargar el código del taller aquí
+ 
   [https://github.com/lllAlonsolll/Android-ReactiveX-BasicExample](https://github.com/lllAlonsolll/Android-ReactiveX-BasicExample)
+  
  [https://github.com/Android-Dev-Peru/Android-ReactiveX-Example](https://github.com/Android-Dev-Peru/Android-ReactiveX-Example)
   
 ### Tools :
