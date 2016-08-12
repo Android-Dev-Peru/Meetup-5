@@ -20,7 +20,8 @@ Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
   Puedes descargar el código del taller aquí [https://github.com/Android-Dev-Peru/Android-Retrofit2.0](https://github.com/Android-Dev-Peru/Android-Retrofit2.0)
 
 - ReactiveX
-
+ 
+ RxJava, es un Librería es una libreria para componer programas asíncronos y basados en eventos utilizando sequencias de observables , puedes revisar la documentación oficial [aquí](http://reactivex.io/)
  Para los servicios REST usaremos el API de [CodeForces](http://codeforces.com/api/help) y la trama JSON
  [Link](http://codeforces.com/api/problemset.problems?tags=graphs)
 
