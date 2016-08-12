@@ -32,4 +32,4 @@ Meetup #5  Taller sobre Retrofit 2.0 y RxJava en Android
  - JSONEditor [http://www.jsoneditoronline.org](http://www.jsoneditoronline.org)
  - JsonLint [http://jsonlint.com/](http://jsonlint.com/)
  - JsonSchema [http://www.jsonschema2pojo.org/](http://www.jsonschema2pojo.org/)
- - JsonFormarter [https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+ - JsonFormartter [https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
